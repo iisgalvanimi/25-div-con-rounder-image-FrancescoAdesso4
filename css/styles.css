@@ -13,4 +13,8 @@ body {
 
 #immagine {
   width: 30%;
+  width: 200px;
+  border-radius: 50%;
+  border: 5px double #00e6e6;
+  margin: 40px;
 }
